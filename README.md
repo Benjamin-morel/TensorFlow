@@ -10,7 +10,13 @@ I followed a free 2-month online training course offered by Keras (https://www.t
 
 ## What's in this code repository?
 
-
+In this repository, Python scripts can be used to build and train neural networks for a wide range of applications. You'll find 6 codes:
+1. Image recognition : 
+2. Text corpus classification
+3. Regression and prediction
+4. Convolutional network 
+5. Generative network
+6. ? 
 
 ## How to use it? 
 It's extremely easy to use! You don't need a high-performance computer to run the codes, just a Google account. 
