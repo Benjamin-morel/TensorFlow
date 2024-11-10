@@ -13,19 +13,20 @@ It's extremely easy to use! You don't need a high-performance computer to run th
 
 1. Select the script to be executed and open it in Google Colab (you may be asked to connect to your Google). The code opened on Google colab is a copy of the original Jupyter notebook. Feel free to modify parts of the code and/or comments.
 
-![Capture d’écran 2024-11-10 à 03 30 41](https://github.com/user-attachments/assets/a6210582-2644-45ae-be7e-918c1fd4a927)
+![Capture d’écran 2024-11-10 à 04 50 06](https://github.com/user-attachments/assets/84905204-0828-49bc-8cbd-0861f9613100)
 
 2. Go to the Input section to complete them. Most neural networks have already been trained and optimized: parameters associated with each neuron have already been calculated. You can choose whether to use these parameters (complete No in this case) or train again the network (Yes).
-3. 
-![Capture d’écran 2024-11-10 à 03 31 24](https://github.com/user-attachments/assets/b4602c8d-92cf-4ea5-adf5-5476a8b23817)
 
-4. Connect to a calculation unit by clicking on reconnect. Once connected, click on RAM Disk to view your machine's characteristics. Google Colab offers a limited but sufficient runtime. To change the execution type, click on Modify execution type. Select CPU or T4 GPU when recommended.
-5. 
-![Capture d’écran 2024-11-10 à 03 31 51](https://github.com/user-attachments/assets/76b867e5-b5d2-4a15-9545-4f30b2909f95)
-![Capture d’écran 2024-11-10 à 03 32 21](https://github.com/user-attachments/assets/f0f6b812-4408-46ad-ba3f-d8b05ecc1dbf)
+![Capture d’écran 2024-11-10 à 04 53 55](https://github.com/user-attachments/assets/994bb506-62b6-4ddb-8468-28f1f08d720f)
 
-6. Finally, go to Run and click on Run all. Once finished, browse the notebook to view the results.
-7. 
-![Capture d’écran 2024-11-10 à 03 32 42](https://github.com/user-attachments/assets/49dd1033-b67c-424e-bf1f-ea8ee8e197ba)
+3. Connect to a calculation unit by clicking on reconnect. Once connected, click on RAM Disk to view your machine's characteristics. Google Colab offers a limited but sufficient runtime. To change the execution type, click on Modify execution type. Select CPU or T4 GPU when recommended.
+
+![Capture d’écran 2024-11-10 à 04 55 45](https://github.com/user-attachments/assets/487e00e0-5c61-4f8b-a646-a49898dd020a)
+![Capture d’écran 2024-11-10 à 04 56 09](https://github.com/user-attachments/assets/cc1c6b4b-476e-4532-9d5f-3996fcdb81b9)
+![Capture d’écran 2024-11-10 à 04 56 30](https://github.com/user-attachments/assets/f5c02603-428e-4acb-a2a0-19257a8fd190)
+
+4. Finally, go to Run and click on Run all. Once finished, browse the notebook to view the results.
+
+![Capture d’écran 2024-11-10 à 05 00 07](https://github.com/user-attachments/assets/c5634c5e-3be7-4c29-918c-2dc3028595a2)
 
 ## Who I am? 
