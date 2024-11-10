@@ -8,6 +8,10 @@ The idea for this project was born at the end of my engineering degree, during m
 
 I followed a free 2-month online training course offered by Keras (https://www.tensorflow.org/tutorials). I started by completing part of the training step-by-step, then merged multiple codes into one to obtain more complex and optimized neural networks. 
 
+## What's in this code repository?
+
+
+
 ## How to use it? 
 It's extremely easy to use! You don't need a high-performance computer to run the codes, just a Google account. 
 
@@ -29,4 +33,4 @@ It's extremely easy to use! You don't need a high-performance computer to run th
 
 ![Capture d’écran 2024-11-10 à 05 00 07](https://github.com/user-attachments/assets/c5634c5e-3be7-4c29-918c-2dc3028595a2)
 
-## Who I am? 
+This repository was created and managed by Benjamin. To contact me, send me an email on benjaminmorel27@gmail.com 
