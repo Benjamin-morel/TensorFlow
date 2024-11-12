@@ -23,20 +23,18 @@ It's extremely easy to use! You don't need a high-performance computer to run th
 
 1. **Select the script to be executed and open it in Google Colab** (you may be asked to connect to your Google). The code opened on Google colab is a copy of the original Jupyter notebook. Feel free to modify parts of the code and/or comments.
 
-![Capture d’écran 2024-11-10 à 04 50 06](https://github.com/user-attachments/assets/84905204-0828-49bc-8cbd-0861f9613100)
+![Capture d’écran 2024-11-12 à 11 17 06](https://github.com/user-attachments/assets/f587d0d0-b8d5-48f6-8f2f-3a8bff9c1252)
 
 2. **Go to the Input section to complete them**. Most neural networks have already been trained and optimized: parameters associated with each neuron have already been calculated. You can choose whether to use these parameters (complete No in this case) or train again the network (Yes).
 
-![Capture d’écran 2024-11-10 à 04 53 55](https://github.com/user-attachments/assets/994bb506-62b6-4ddb-8468-28f1f08d720f)
+![Capture d’écran 2024-11-12 à 11 17 50](https://github.com/user-attachments/assets/9c351c50-f1a7-47d9-bd6e-e8b10db5e41b)
 
 3. **Connect to a calculation unit by clicking on *reconnect***. Once connected, click on *RAM Disk* to view your machine's characteristics. Google Colab offers a limited but sufficient runtime. To change the execution type, click on *Modify execution type*. Select CPU or T4 GPU when recommended.
 
-![Capture d’écran 2024-11-10 à 04 55 45](https://github.com/user-attachments/assets/487e00e0-5c61-4f8b-a646-a49898dd020a)
-![Capture d’écran 2024-11-10 à 04 56 09](https://github.com/user-attachments/assets/cc1c6b4b-476e-4532-9d5f-3996fcdb81b9)
-![Capture d’écran 2024-11-10 à 04 56 30](https://github.com/user-attachments/assets/f5c02603-428e-4acb-a2a0-19257a8fd190)
+![Capture d’écran 2024-11-12 à 11 18 16](https://github.com/user-attachments/assets/dc202eaf-0691-4113-88ab-b8be96900b7f)
 
 4. Finally, go to ***Run* and click on *Run all***. Once finished, browse the notebook to view the results.
-
-![Capture d’écran 2024-11-10 à 05 00 07](https://github.com/user-attachments/assets/c5634c5e-3be7-4c29-918c-2dc3028595a2)
+   
+![Capture d’écran 2024-11-12 à 11 18 35](https://github.com/user-attachments/assets/6019a3ff-937c-47be-b358-dad6b16f7772)
 
 This repository was created and managed by Benjamin. To contact me, send me an email on benjaminmorel27@gmail.com 
