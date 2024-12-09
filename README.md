@@ -15,8 +15,8 @@ In this repository, Python scripts can be used to build and train neural network
 2. **Text corpus classification**: tokenisation method to classify texts 
 3. **Regression and prediction**: regression task and prediction
 4. **Convolutional network**: powerful and efficient NN that classifies images
-5. **Generative network**: generate novel images based or not on a text prompt
-6. **Optimization**: compress a machine learning model 
+5. **Generative network**: generate novel images based or not on a text prompt (in progress)
+6. **Optimization**: compress a machine learning model (in progress)
 
 ## How to use it? 
 It's extremely easy to use! You don't need a high-performance computer to run the codes, just a Google account. 
