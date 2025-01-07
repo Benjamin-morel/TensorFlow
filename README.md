@@ -15,7 +15,9 @@ In this repository, Python scripts can be used to build and train neural network
 2. **Text corpus classification**: tokenisation method to classify texts 
 3. **Regression and prediction**: regression task and prediction
 4. **Convolutional network**: powerful and compressed CNN that classifies images
-5. **Transfert learning**: use a pre-trained model to classify images (in progress)
+5. **Transfert learning**: use a pre-trained model to classify images
+6. **Image segmentation**: identify automatically and delineate objects
+7. **Scalable model compression**: use the EPR method to compress weights in a model
 
 ## How to use it? 
 It's extremely easy to use! You don't need a high-performance computer to run the codes, just a Google account. 
