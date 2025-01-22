@@ -1,9 +1,11 @@
 # Welcome to TensorFlow repository!
 This personal code repository contains a range of artificial intelligence and numerical data processing projects. The models are coded in Python and use the framework Tensorflow/Keras. Python scripts are in Jupyter notebook format, and can be run locally or on Google Colab. All elements of the repository are licensed under the *GNU General Public License v3.0* (see License section). 
 
+---------------
 ## Why did I create this project?
 The idea for this project was born at the end of my engineering degree, during my end-of-study internship. I was working on machine learning and Gaussian processes in order to make regressions and then predictions for a finite element analysis problem. Passionate about the field, I decided to learn more about the essential tools of machine/deep learning. I followed a free online training course offered in partially by Keras (https://www.tensorflow.org/tutorials). I started by completing part of the training step-by-step, then merged multiple codes into one to obtain more complex and optimized neural networks. 
 
+---------------
 ## What's in this code repository?
 
 In this repository, Python scripts can be used to build and train neural networks (NN) for a wide range of applications. You'll find:
@@ -15,6 +17,7 @@ In this repository, Python scripts can be used to build and train neural network
 6. **Brain cancer detection**: semantic image segmentation classification (with U-Net network)
 7. **Word embeddings** with the skip-Gram algorithm (!!In progress!!)
 
+---------------
 ## How to use it? 
 If you want to run a Python script in Google Colab, it's extremely simple: you need just a Google account. 
 
@@ -34,6 +37,7 @@ If you want to run a Python script in Google Colab, it's extremely simple: you n
    
 ![Capture d’écran 2024-11-12 à 11 18 35](https://github.com/user-attachments/assets/6019a3ff-937c-47be-b358-dad6b16f7772)
 
+---------------
 ## Tech & requirements
 Here are the libraries and packages commonly used in my Python codes. All are free and easy to install!
 
