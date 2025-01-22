@@ -37,13 +37,13 @@ If you want to run a Python script in Google Colab, it's extremely simple: you n
 ## Tech & requirements
 Here are the libraries and packages commonly used in my Python codes. All are free and easy to install!
 
-[numpy](https://numpy.org/doc/stable/index.html) - 1.26 version - fundamental package for scientific computing with Python
-[pandas](https://pandas.pydata.org/docs/index.html) - 2.2.3 version - open source library for data manipulation and analysis
-[pillow](https://pillow.readthedocs.io/en/stable/#) - 10.4.0 version - Python imaging library
-[matplotlib](https://matplotlib.org/stable/) - 3.10 version - Python 2D plotting library
-[plotly](https://plotly.com/graphing-libraries/) - 5.24 version - interactive charts and maps for Python
-[pytorch](https://pytorch.org/) -2.2.2 version - open source deep learning platform
-[tensorflow](https://www.tensorflow.org/) - 3.10.12 version - open source library for numerical computation and large-scale machine learning
+*   [numpy](https://numpy.org/doc/stable/index.html) - 1.26 version - fundamental package for scientific computing with Python
+*   [pandas](https://pandas.pydata.org/docs/index.html) - 2.2.3 version - open source library for data manipulation and analysis
+*   [pillow](https://pillow.readthedocs.io/en/stable/#) - 10.4.0 version - Python imaging library
+*   [matplotlib](https://matplotlib.org/stable/) - 3.10 version - Python 2D plotting library
+*   [plotly](https://plotly.com/graphing-libraries/) - 5.24 version - interactive charts and maps for Python
+*   [pytorch](https://pytorch.org/) -2.2.2 version - open source deep learning platform
+*   [tensorflow](https://www.tensorflow.org/) - 3.10.12 version - open source library for numerical computation and large-scale machine learning
 
 Python 3.10
 
