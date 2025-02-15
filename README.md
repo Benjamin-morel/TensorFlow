@@ -16,7 +16,8 @@ In this repository, Python scripts can be used to build and train neural network
 5. **Flower classification by transfert learning**: classify images with a pre-trained model (with MobileNet V2 network)
 6. **Brain cancer detection**: semantic image segmentation classification (with U-Net network)
 7. **Word embeddings** with skip-Gram method
-8. **Recurrent neural network** for text classification (!! In progress !!)
+8. **Recurrent neural network** for text classification
+9. **Word embedding sapce** for visualization and comparison (with PCA reduction)
 
 ---------------
 ## How to use it? 
