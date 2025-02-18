@@ -8,16 +8,18 @@ The idea for this project was born at the end of my engineering degree, during m
 ---------------
 ## What's in this code repository?
 
-In this repository, Python scripts can be used to build and train neural networks (NN) for a wide range of applications. You'll find:
-1. **Image recognition**: basic image classification (with hyperparameter tuning) 
-2. **Movie review classification**: binary text classification (tokenisation method + embedding space exploration)
-3. **Fuel efficiency predictions**: regression task and prediction (model comparison)
-4. **Flower classification**: convolutional network 
-5. **Flower classification by transfert learning**: classify images with a pre-trained model (with MobileNet V2 network)
-6. **Brain cancer detection**: semantic image segmentation classification (with U-Net network)
-7. **Word embeddings** with skip-Gram method
-8. **Recurrent neural network** for text classification
-9. **Word embedding sapce** for visualization and comparison (with PCA reduction)
+In this repository, Python scripts are used to build and train neural networks (NN) for a wide range of applications: NLP, CV, RP (Prediction Regression), UL (Unsupervised Learning), OTP (Optimization), PINN (Physics-Informed Neural Networks) and HW ("Hello World"). Therefore, you will find:
+1. **[HW] Image recognition**: basic image classification (with hyperparameter tuning) 
+2. **[NLP] Movie review classification**: binary text classification (with a sensitivity analysis)
+3. **[RP] Fuel efficiency predictions**: regression and prediction (model confrontation)
+4. **[CV] Flower classification**: convolutional network 
+5. **[CV] Flower classification by transfert learning**: complex convolutional pre-trained model (MobileNet V2)
+6. **[CV] Brain cancer detection**: semantic image segmentation classification (with U-Net)
+7. **[NLP] Word2vec**: word embedding built with skip-Gram method
+8. **[NLP] Recurrent neural network**: text classification (with LSTM layers)
+9. **[UL] Word embedding space**: visualization and NLP model comparison (with PCA/t-SNE reduction)
+10. **[OTP] Model pruning**: sparse model and compression (with non-significant weights suppression) (!! IN PROGRESS !!)
+11. **[PINN] PDE resolution model**: application for heat diffusion in stars (!! IN PROGRESS !!)
 
 ---------------
 ## How to use it? 
