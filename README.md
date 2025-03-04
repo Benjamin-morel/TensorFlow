@@ -18,7 +18,7 @@ In this repository, Python scripts are used to build and train neural networks (
 7. **[NLP] Word2vec**: word embedding built with skip-Gram method
 8. **[NLP] Recurrent neural network**: text classification (with LSTM layers)
 9. **[UL] Word embedding space**: visualization and NLP model comparison (with PCA/t-SNE reduction)
-10. **[OTP] Model pruning**: sparse model and compression (with non-significant weights suppression) (!! IN PROGRESS !!)
+10. **[OTP] Model pruning**: sparse model and compression (with non-significant weights suppression)
 11. **[PINN] PDE resolution model**: application for heat diffusion in stars (!! IN PROGRESS !!)
 
 ---------------
