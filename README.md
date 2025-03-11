@@ -56,4 +56,4 @@ Here are the libraries and packages commonly used in my Python codes. All are fr
 Python 3.10
 
 ---------------
-This repository was created and managed by Benjamin. To contact me, send me an email on benjaminmorel27@gmail.com 
+This repository was created and managed by Benjamin. To contact me, send me an email on github_contact.entrap688@aleeas.com
