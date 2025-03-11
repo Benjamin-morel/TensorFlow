@@ -27,7 +27,7 @@ If you want to run a Python script in Google Colab, it's extremely simple: you n
 
 1. **Select the script to be executed and open it in Google Colab** (you may be asked to connect to your Google). The code opened on Google colab is a copy of the original Jupyter notebook. Feel free to modify parts of the code and/or comments.
 
-![Capture d’écran 2024-11-12 à 11 17 06](https://github.com/user-attachments/assets/f587d0d0-b8d5-48f6-8f2f-3a8bff9c1252)
+![github1](https://github.com/user-attachments/assets/70b125a9-7340-4133-844d-04098391921c)
 
 2. **Go to the Input section to complete them**. Most neural networks have already been trained and optimized: parameters associated with each neuron have already been calculated. You can choose whether to use these parameters (complete No in this case) or train again the network (Yes).
 
@@ -35,11 +35,11 @@ If you want to run a Python script in Google Colab, it's extremely simple: you n
 
 3. **Connect to a calculation unit by clicking on *reconnect*** (a). Once connected, click on *RAM Disk* to view your machine's characteristics (b). Google Colab offers a limited but sufficient runtime. To change the execution type, click on *Modify execution type* (c). Select CPU or T4 GPU when recommended (d).
 
-![Capture d’écran 2024-11-12 à 11 18 16](https://github.com/user-attachments/assets/dc202eaf-0691-4113-88ab-b8be96900b7f)
+![github2](https://github.com/user-attachments/assets/1048bce1-1699-4316-ab55-0de25cf0a4d9)
 
 4. Finally, go to ***Run* and click on *Run all***. Once finished, browse the notebook to view the results.
-   
-![Capture d’écran 2024-11-12 à 11 18 35](https://github.com/user-attachments/assets/6019a3ff-937c-47be-b358-dad6b16f7772)
+
+![github3](https://github.com/user-attachments/assets/6eb0ab78-5d11-4bf6-bac4-536d714ff65f)
 
 ---------------
 ## Tech & requirements
