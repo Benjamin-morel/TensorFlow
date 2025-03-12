@@ -31,7 +31,7 @@ If you want to run a Python script in Google Colab, it's extremely simple: you n
 
 2. **Go to the Input section to complete them**. Most neural networks have already been trained and optimized: parameters associated with each neuron have already been calculated. You can choose whether to use these parameters (complete No in this case) or train again the network (Yes).
 
-![Capture d’écran 2024-11-12 à 11 17 50](https://github.com/user-attachments/assets/9c351c50-f1a7-47d9-bd6e-e8b10db5e41b)
+![github4](https://github.com/user-attachments/assets/7881ebb0-d03e-4cd3-9708-9b3b03c47817)
 
 3. **Connect to a calculation unit by clicking on *reconnect*** (a). Once connected, click on *RAM Disk* to view your machine's characteristics (b). Google Colab offers a limited but sufficient runtime. To change the execution type, click on *Modify execution type* (c). Select CPU or T4 GPU when recommended (d).
 
