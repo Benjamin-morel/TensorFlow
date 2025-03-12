@@ -29,11 +29,11 @@ If you want to run a Python script in Google Colab, it's extremely simple: you n
 
 ![github1](https://github.com/user-attachments/assets/70b125a9-7340-4133-844d-04098391921c)
 
-2. **Connect to a calculation unit by clicking on *reconnect*** (a). Once connected, click on *RAM Disk* to view your machine's characteristics (b). Google Colab offers a limited but sufficient runtime. To change the execution type, click on *Modify execution type* (c). Select CPU or T4 GPU when recommended (d). Note that when the script runs on CPU, a pre-trained model is used to save time, computer resources and CO2. 
+2. **Connect to a calculation unit by clicking on *connect*** (a). Once connected, click on *RAM Disk* to view your machine's characteristics (b). Google Colab offers a limited but sufficient runtime. To change the execution type, click on *change runtime type* (c). Select CPU or T4 GPU when recommended (d). Note that when the script runs on CPU, a pre-trained model is used to save time, computer resources and CO2. 
 
 ![github2](https://github.com/user-attachments/assets/1048bce1-1699-4316-ab55-0de25cf0a4d9)
 
-3. Finally, go to ***Run* and click on *Run all***. Once finished, browse the notebook to view the results.
+3. Finally, go to ***Runtime* and click on *Run all***. Once finished, browse the notebook to view the results.
 
 ![github3](https://github.com/user-attachments/assets/6eb0ab78-5d11-4bf6-bac4-536d714ff65f)
 
