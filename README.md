@@ -29,7 +29,7 @@ If you want to run a Python script in Google Colab, it's extremely simple: you n
 
 ![github1](https://github.com/user-attachments/assets/70b125a9-7340-4133-844d-04098391921c)
 
-2. **Connect to a calculation unit by clicking on *connect*** (a). Once connected, click on *RAM Disk* to view your machine's characteristics (b). Google Colab offers a limited but sufficient runtime. To change the execution type, click on *change runtime type* (c). Select CPU or T4 GPU when recommended (d). Note that when the script runs on CPU, a pre-trained model is used to save time, computer resources and CO2. 
+2. **Connect to a calculation unit by clicking on *Connect*** (a). Once connected, click on *RAM Disk* to view your machine's characteristics (b). Google Colab offers a limited but sufficient runtime. To change the execution type, click on *Change runtime type* (c). Select CPU or T4 GPU when recommended (d). Note that when the script runs on CPU, a pre-trained model is used to save time, computer resources and CO2. 
 
 ![github2](https://github.com/user-attachments/assets/1048bce1-1699-4316-ab55-0de25cf0a4d9)
 
@@ -41,13 +41,13 @@ If you want to run a Python script in Google Colab, it's extremely simple: you n
 ## Tech & requirements
 Here are the libraries and packages commonly used in my Python codes. All are free and easy to install!
 
-*   [numpy](https://numpy.org/doc/stable/index.html) - 1.26 version - fundamental package for scientific computing with Python
-*   [pandas](https://pandas.pydata.org/docs/index.html) - 2.2.3 version - open source library for data manipulation and analysis
-*   [pillow](https://pillow.readthedocs.io/en/stable/#) - 10.4.0 version - Python imaging library
-*   [matplotlib](https://matplotlib.org/stable/) - 3.10 version - Python 2D plotting library
-*   [plotly](https://plotly.com/graphing-libraries/) - 5.24 version - interactive charts and maps for Python
-*   [pytorch](https://pytorch.org/) -2.2.2 version - open source deep learning platform
-*   [tensorflow](https://www.tensorflow.org/) - 3.10.12 version - open source library for numerical computation and large-scale machine learning
+*   [NumPy](https://numpy.org/doc/stable/index.html) - 1.26 version - fundamental package for scientific computing with Python
+*   [Pandas](https://pandas.pydata.org/docs/index.html) - 2.2.3 version - open source library for data manipulation and analysis
+*   [Pillow](https://pillow.readthedocs.io/en/stable/#) - 10.4.0 version - Python imaging library
+*   [Matplotlib](https://matplotlib.org/stable/) - 3.10 version - Python 2D plotting library
+*   [Plotly](https://plotly.com/graphing-libraries/) - 5.24 version - interactive charts and maps for Python
+*   [PyTorch](https://pytorch.org/) -2.2.2 version - open source deep learning platform
+*   [TensorFlow](https://www.tensorflow.org/) - 3.10.12 version - open source library for numerical computation and large-scale machine learning
 
 Python 3.10
 
